@@ -2,4 +2,4 @@ function getWhatYouGive(info) {
     return info
 }
 
-module.export = getWhatYouGive
+module.exports = getWhatYouGive
