@@ -1,5 +1,10 @@
-function getWhatYouGive(info) {
-    return info
+import React from 'react'
+import Label from './Label'
+
+const index = (props) => {
+    return (
+        <Label style={props.style} />
+    )
 }
 
-module.exports = getWhatYouGive
+export default index
