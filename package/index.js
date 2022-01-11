@@ -1,5 +1,5 @@
-const getWhatYouGive = (info) => {
+function getWhatYouGive(info) {
     return info
 }
 
-export default getWhatYouGive
+module.export = getWhatYouGive
