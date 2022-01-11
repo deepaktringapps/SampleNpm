@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "get-value": "^3.0.1"
+  }
+}
